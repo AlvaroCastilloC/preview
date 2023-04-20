@@ -26,17 +26,18 @@ export default function Home() {
           content="https://vod.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT/thumbnail.jpg"
         />
         <meta
-          property="og:video"
+          name="og:video"
           content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
         />
         <meta name="og:video:type" content="video/mp4" />
         <meta name="og:video:width" content="640" />
         <meta name="og:video:height" content="360" />
         <meta
-          property="og:video:secure_url"
+          name="og:video:secure_url"
           content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
         />
-
+        <meta name="og:image:alt" content="alt" />
+        <meta name="og:updated_time" content="yyyy-mm-ddThh:mm:ssTZD" />
         <title>Título de la página</title>
       </Head>
 
