@@ -21,7 +21,7 @@ export default function Home() {
         <meta property="og:description" content="Descripción del video" />
         <meta
           property="og:image"
-          content="https://ejemplo.com/imagen-min.png"
+          content="https://vod.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT/thumbnail.jpg"
         />
         <meta
           property="og:video"
@@ -50,40 +50,6 @@ export default function Home() {
         <meta
           property="og:video:secure_url"
           content="https://vod.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT/mp4/source.mp4"
-        />
-        {/*<!---caso 3 -->*/}
-        <meta property="og:title" content="Título del video" />
-        <meta property="og:description" content="Descripción del video" />
-        <meta
-          property="og:image"
-          content="https://ejemplo.com/imagen-min.png"
-        />
-        <meta
-          property="og:video"
-          content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
-        />
-        <meta property="og:video:type" content="video/mp4" />
-        <meta property="og:video:width" content="640" />
-        <meta property="og:video:height" content="360" />
-        <meta
-          property="og:video:secure_url"
-          content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
-        />
-
-        {/*<!---caso 4 -->*/}
-        <meta name="og:title" content="Título del video" />
-        <meta name="og:description" content="Descripción del video" />
-        <meta name="og:image" content="https://ejemplo.com/imagen-min.png" />
-        <meta
-          property="og:video"
-          content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
-        />
-        <meta name="og:video:type" content="video/mp4" />
-        <meta name="og:video:width" content="640" />
-        <meta name="og:video:height" content="360" />
-        <meta
-          property="og:video:secure_url"
-          content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
         />
 
         <title>Título de la página</title>
