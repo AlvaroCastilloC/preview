@@ -38,8 +38,8 @@ export default function Home() {
           content="https://vod.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT/mp4/source.mp4"
         />
         <meta name="og:video:type" content="video/mp4" />
-        <meta name="og:video:width" content="640" />
-        <meta name="og:video:height" content="360" />
+        <meta name="og:video:width" content="1920px" />
+        <meta name="og:video:height" content="1080px" />
 
         <meta name="og:image:alt" content="alt" />
         <meta name="og:updated_time" content="yyyy-mm-ddThh:mm:ssTZD" />
