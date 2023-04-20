@@ -27,15 +27,15 @@ export default function Home() {
         />
         <meta
           name="og:video"
-          content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
+          content="https://vod.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT/mp4/source.mp4"
         />
         <meta
           name="og:video:url"
-          content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
+          content="https://vod.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT/mp4/source.mp4"
         />
         <meta
           name="og:video:secure_url"
-          content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
+          content="https://vod.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT/mp4/source.mp4"
         />
         <meta name="og:video:type" content="video/mp4" />
         <meta name="og:video:width" content="640" />
