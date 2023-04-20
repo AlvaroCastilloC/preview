@@ -29,15 +29,24 @@ export default function Home() {
           name="og:video"
           content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
         />
-        <meta name="og:video:type" content="video/mp4" />
-        <meta name="og:video:width" content="640" />
-        <meta name="og:video:height" content="360" />
+        <meta
+          name="og:video:url"
+          content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
+        />
         <meta
           name="og:video:secure_url"
           content="https://embed.api.video/vod/vi7k65j5G4OeEEWkGzvCwfUT"
         />
+        <meta name="og:video:type" content="video/mp4" />
+        <meta name="og:video:width" content="640" />
+        <meta name="og:video:height" content="360" />
+
         <meta name="og:image:alt" content="alt" />
         <meta name="og:updated_time" content="yyyy-mm-ddThh:mm:ssTZD" />
+
+        <meta name="og:locale" content="es_MX" />
+        <meta name="og:type" content="website" />
+
         <title>Título de la página</title>
       </Head>
 
